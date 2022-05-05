@@ -1,0 +1,89 @@
+@media (min-width: 800px) {
+    .body {
+            background-color: rgb(94, 169, 170)
+    }
+    @media (max-width: 800x) {
+      .elrondapes_ea {
+            display: grid;
+      }
+
+    
+
+    }
+    a:link {
+        color: white;
+      }
+      a:visited {
+        color: white;
+      }
+      a:hover {
+        color: blue
+      }
+
+    .navigation {
+        display: flex;
+        color: white;
+        background: rgb(0, 0, 0);
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 1em;
+        font-size: 3em;
+        padding: .5em;
+}
+
+.fancy_underline,
+h2 {
+    font-size: 40px;
+    font-family: "roboto", monospace;
+    text-align: center;
+ }
+
+.h1 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.div {
+    font-size: x-large;
+    background-color: rgb(126, 103, 103);
+    text-align: center;
+    padding-inline: 12em;
+    
+}
+
+.box-container {
+    height: 0.5em;
+    border: 0.5em solid rgb(255, 255, 255);
+    background-color: black;
+    display: flex;
+    height: 9em;
+  }
+
+  .images {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2em;
+
+
+}
+.elrondapes_ea {
+  justify-content: center;
+  align-items: center;
+  padding: 3em;
+  display: flex
+}
+}
+
+  .contact {
+      color: white;
+      font-size: x-large;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
